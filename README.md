@@ -4,6 +4,7 @@ Nomad Coders Challenges
 
 ## Lecture Clone
 https://repl.it/@ahenaka/Python-Course#main.py
+https://repl.it/@ahenaka/Python-Bonus-Course#main.py
 
 ## Day 1
 Quiz
