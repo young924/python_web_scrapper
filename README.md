@@ -29,3 +29,6 @@ Break
 
 ## Day 8
 https://repl.it/@ahenaka/Day-Eight-Blueprint#main.py
+
+## Day 9~10
+https://repl.it/@ahenaka/Day-Nine-and-Ten-Blueprint#main.py
